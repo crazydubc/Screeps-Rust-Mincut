@@ -6,12 +6,6 @@
 
  Copy the binary and files into your screeps codebase. Call the binary from your script. Sample implmentation code:
 
-/**
- * @property {number} x1 - Top left corner
- * @property {number} x1 - Top left corner
- * @property {number} x2 - Bottom right corner
- * @property {number} y2 - Bottom right corner
- */
 export interface Rectangle {
 	x1: number;
 	y1: number;
